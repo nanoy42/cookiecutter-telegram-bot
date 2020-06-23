@@ -1,0 +1,11 @@
+{
+	"repo_name": "my-awesome-telegram-bot",
+	"name": "My awesome telegram plugin",
+	"author": "Your name",
+	"email": "Your email",
+	"description": "Short description",
+	"repo_url": "Repository url",
+	"year": "Current year",
+	"version": "Version"
+}
+
